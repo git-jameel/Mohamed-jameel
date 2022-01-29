@@ -8,5 +8,5 @@ public class adding2numbers {
 		int sum=first+second;
 		System.out.println("The sum is:"+sum);
 	}
-
+//just testing
 }
